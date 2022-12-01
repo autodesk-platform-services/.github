@@ -1,5 +1,8 @@
-![Autodesk Platform Services](https://cdn.autodesk.io/logo/black/stacked.png#gh-light-mode-only)
-![Autodesk Platform Services](https://cdn.autodesk.io/logo/white/stacked.png#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.autodesk.io/logo/white/stacked.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.autodesk.io/logo/black/stacked.png">
+  <img alt="Autodesk Platform Services" src="https://cdn.autodesk.io/logo/black/stacked.png">
+</picture>
 
 ## A cloud-based developer platform from Autodesk
 
