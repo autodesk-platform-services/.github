@@ -12,11 +12,12 @@ Looking for [Autodesk open-source](https://github.com/autodesk) projects?
 
 ## Samples
 
-Find samples using **topics**:
+Find samples:
 
 - [Viewer](https://github.com/search?q=topic%3Aautodesk-viewer+org%3Aautodesk-platform-services&type=Repositories)
 - [Model Derivative](https://github.com/search?q=topic%3Aautodesk-model-derivative+org%3Aautodesk-platform-services&type=Repositories)
-- [Design Automation](https://github.com/search?q=topic%3Aautodesk-design-automation+org%3Aautodesk-platform-services&type=Repositories)
+- [Design Automation](https://github.com/search?q=topic%3Aautodesk-designautomation+org%3Aautodesk-platform-services&type=Repositories)
+- [Data Management](https://github.com/search?q=topic%3Aautodesk-data-management+org%3Aautodesk-platform-services&type=Repositories)
 - [BIM 360](https://github.com/search?q=topic%3Aautodesk-bim360+org%3Aautodesk-platform-services&type=Repositories)
 - [Autodesk Construction Cloud](https://github.com/search?q=topic%3Aautodesk-construction-cloud+org%3Aautodesk-platform-services&type=Repositories)
 
@@ -34,6 +35,6 @@ Additional learning content:
 - Ask on [Stackoverflow](https://stackoverflow.com/questions/ask?tags=autodesk-platform-services) - we actively monitor this tag.
 - Use APS [Get Help](https://aps-stg.autodesk.com/en/support/get-help) page (Autodesk Account required)
 
-**Note**: github Issues are not monitored for support questions.
+**Note**: github issues are not monitored for support questions.
 
 
