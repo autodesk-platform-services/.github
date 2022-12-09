@@ -27,7 +27,7 @@ Find samples:
 Additional learning content:
 
 - [Tutorials](https://aps.autodesk.com/tutorials) in Nodejs & .NET.
-- [Documentation](https://aps.autodesk.com): complete API Reference. 
+- [Documentation](https://aps.autodesk.com/developer/documentation): developer guides & complete API references. 
 - [Blog](https://aps.autodesk.com/blog) with articles in various topics.
 
 ## Support
